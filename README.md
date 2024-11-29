@@ -6,11 +6,6 @@ This project consists of:
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 🚀 Features
 
 ### Chrome Extension
